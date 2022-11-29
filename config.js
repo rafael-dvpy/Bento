@@ -69,19 +69,19 @@ const CONFIG = {
       id: "2",
       name: "Mail",
       icon: "mail",
-      link: "https://mail.protonmail.com/",
+      link: "https://outlook.com",
     },
     {
       id: "3",
       name: "Todoist",
       icon: "trello",
-      link: "https://todoist.com",
+      link: "https://trello.com",
     },
     {
       id: "4",
       name: "Calendar",
       icon: "calendar",
-      link: "https://calendar.google.com/calendar/r",
+      link: "https://outlook.live.com/calendar",
     },
     {
       id: "5",
