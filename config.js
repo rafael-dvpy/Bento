@@ -37,19 +37,19 @@ const CONFIG = {
   language: "en", // More languages in https://openweathermap.org/current#multi
 
   trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-  defaultLatitude: "37.775",
-  defaultLongitude: "-122.419",
+  defaultLatitude: "-22.759781",
+  defaultLongitude: "-43.451511",
 
   // Autochange
   autoChangeTheme: true,
 
   // Autochange by OS
-  changeThemeByOS: true,
+  changeThemeByOS: false,
 
   // Autochange by hour options (24hrs format, string must be in: hh:mm)
-  changeThemeByHour: false,
+  changeThemeByHour: true,
   hourDarkThemeActive: "18:30",
-  hourDarkThemeInactive: "07:00",
+  hourDarkThemeInactive: "18:29",
 
   // Autochange automatically based on location (sunrise/sunset). Openweathermap API key required.
   changeThemeByLocation: false,
